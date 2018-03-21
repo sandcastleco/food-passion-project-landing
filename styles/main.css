@@ -1,3 +1,7 @@
+body {
+  padding-top: 24rem;
+  padding-bottom: 24rem;
+}
 .brandon { font-family: "brandon-grotesque", sans-serif; }
 
 .ink { color: #171619; }
