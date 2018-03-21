@@ -2,6 +2,15 @@ body {
   padding-top: 24rem;
   padding-bottom: 24rem;
 }
+@media(min-width: 30em) {
+  .w-45-ns { width: 45%; }
+}
+@media(min-width: 60em) {
+  .w-35-l { width: 35%; }
+}
+@media(min-width: 90em) {
+  .mw-40-l { max-width: 40%; }
+}
 .brandon { font-family: "brandon-grotesque", sans-serif; }
 
 .ink { color: #171619; }
